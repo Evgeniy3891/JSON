@@ -1,0 +1,7 @@
+let user = 
+{
+  name: "Evgeniy",
+  age: 39,
+  animals: 1,
+  salary : 5000
+}
